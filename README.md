@@ -1,2 +1,0 @@
-# google-sheets-chart
-Expenses
